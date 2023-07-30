@@ -1,0 +1,2 @@
+# TXTNormalize
+Normalize TXT file
